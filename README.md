@@ -1,10 +1,12 @@
+<div align="center">
+
 # Heyy 👋 I'm Sandeep 🙋🏻‍♂️
 
 ### 📊 Data Analyst Aspirant • AI & Data Science Student • C++ Problem Solver 💻
 
 > Exploring the world of **data, code & problem solving** — one query, one problem and one dashboard at a time. 🚀
 
----
+</div>
 
 ### ✨ About Me
 
